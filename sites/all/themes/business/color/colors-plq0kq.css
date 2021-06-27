@@ -6,13 +6,13 @@ body { background-color:#eeeeee; }
 
 /* Menu */
 
-#wrap { border-top: 3px solid #2E70B1; }
+#wrap { border-top: 3px solid #1E2675; }
 
-#main-menu .menu a.active, #main-menu .menu ul a.active { background: #2E70B1; }
+#main-menu .menu a.active, #main-menu .menu ul a.active { background: #1E2675; }
 
-#main-menu .menu a.active-trail { background: #2E70B1; }
+#main-menu .menu a.active-trail { background: #1E2675; }
 
-#sitename h1 a:hover, #sitename h2 a:hover { color: #2E70B1; }
+#sitename h1 a:hover, #sitename h2 a:hover { color: #1E2675; }
 
 /* Menu Hover */
 
@@ -21,15 +21,15 @@ body { background-color:#eeeeee; }
 #main-menu .menu a:active,
 #main-menu .menu ul a:focus,
 #main-menu .menu ul a:hover,
-#main-menu .menu ul a:active { background: #2E70B1 }
+#main-menu .menu ul a:active { background: #1E2675 }
 
 /* Link */
 
 a { color: #595959; }
 
-a:hover { color: #2E70B1 ; }
+a:hover { color: #1E2675 ; }
 
-.links li a:hover, .field-name-field-tags a:hover { color: #2E70B1 ; }
+.links li a:hover, .field-name-field-tags a:hover { color: #1E2675 ; }
 
 /* Button */
 
