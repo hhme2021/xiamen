@@ -475,7 +475,7 @@ li.sfHover > a > .sf-sub-indicator {
   border-right: none !important;
   border-bottom: none !important;
   background: url('images/shadow.png') no-repeat bottom right;
-  padding: 3px !important;
+  padding: 1px !important;
 }
 
 .sf-shadow ul ul {
